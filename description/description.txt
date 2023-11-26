@@ -1,0 +1,1 @@
+Blur content of current slide and use as background for next slide
